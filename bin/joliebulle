@@ -1,5 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-cd /usr/share/joliebulle
+SCRIPT_DIR="$( cd "$( dirname "$0" )" && pwd )"
+
+cd $SCRIPT_DIR/../joliebulle
 
 python3 main.py $@
