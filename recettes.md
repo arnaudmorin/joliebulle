@@ -17,7 +17,8 @@
 * 15 minutes - 4g Saaz - 3.3 alpha
 
 #### Dry
-* 
+* Triskell - 20g dans le grand
+* Zeus - 7g dans le petit
 
 ### Epices
 
