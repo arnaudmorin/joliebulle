@@ -3,7 +3,7 @@
 * IBU 34
 * EBC 35
 * DI 1064
-* DF 
+* DF 1030
 
 ## Ebu
 ### Malt
@@ -37,5 +37,5 @@ https://blog.littlebock.fr/recette-coriander-amber-ale-extrait-de-malt/
 https://blog.littlebock.fr/recette-biere-de-noel-tout-grain/
 
 * a 1 semaine, transvase et nettoyage levure morte, dry hop
-* a 2 semaines, mise en bouteille.
+* a 2 semaines, mise en bouteille, resucrage a 8g par litre
 
