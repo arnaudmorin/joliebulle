@@ -39,3 +39,9 @@ https://blog.littlebock.fr/recette-biere-de-noel-tout-grain/
 * a 1 semaine, transvase et nettoyage levure morte, dry hop
 * a 2 semaines, mise en bouteille, resucrage a 8g par litre
 
+### Remarques gustatives
+* Finalement elle n'a pas assez de miel, ou alors on devrait peut etre le mettre apres ebulition, pour ne pas gacher ses aromes
+* On sent le gimgembre, sans que ce soit trop, donc plutot bien.
+* Girofle par contre, pas senti.
+* Cannelle pas trop non plus.
+* Concernant le dry hop, la zeus est bien mieux, la Triskell est trop faible. A re-gouter pour reverifier.
