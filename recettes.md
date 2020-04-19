@@ -6,6 +6,9 @@
 * DF 1030
 
 ## Ebu
+### Eau
+17L je crois
+
 ### Malt
 * 1kg blond 8 EBC
 * 500g fonce 80 EBC
@@ -45,3 +48,55 @@ https://blog.littlebock.fr/recette-biere-de-noel-tout-grain/
 * Girofle par contre, pas senti.
 * Cannelle pas trop non plus.
 * Concernant le dry hop, la zeus est bien mieux, la Triskell est trop faible. A re-gouter pour reverifier.
+
+
+# Printemps 2020
+
+* IBU 38
+* EBC 18
+* DI 1050 (theorique 1042)
+* DF 10xx (theorique 1010)
+
+## Ebu
+### Eau
+14L dans la cocotte, environ 13L en sortie d'ebu (pas mis de couvercle car biere deja pas tres forte).
+
+### Malt
+* 1kg blond 15 EBC
+* 500g amber 25 EBC
+* 120g sucre candi
+
+### Houblons
+#### Ebu
+* 45 minutes - 20g magnum - 10.6 alpha
+
+#### Dry
+Dry hop commence a la deuxieme semaine uniquement
+
+3 seaux:
+* Tettnanger - 6g
+* Styrian Golding - 8g
+* Fuggle - 4g
+
+### Epices
+
+10 minutes avant la fin de l'ebu
+
+* 2 cc de gimgembre
+
+## Levures
+
+* Safale S04
+
+## Divers
+
+* a 1 semaine
+  * transvase et nettoyage levure morte
+  * debut dry hop
+* a 2 semaines
+  * mise en bouteille
+  * resucrage a 8g par litre
+  * 10 gouttes de citrussy
+
+### Remarques gustatives
+
