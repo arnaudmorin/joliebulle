@@ -55,7 +55,7 @@ https://blog.littlebock.fr/recette-biere-de-noel-tout-grain/
 * IBU 38
 * EBC 18
 * DI 1050 (theorique 1042)
-* DF 10xx (theorique 1010)
+* DF 1010 (theorique 1010)
 
 ## Ebu
 ### Eau
@@ -73,10 +73,11 @@ https://blog.littlebock.fr/recette-biere-de-noel-tout-grain/
 #### Dry
 Dry hop commence a la deuxieme semaine uniquement
 
-3 seaux:
+4 seaux:
 * Tettnanger - 6g
 * Styrian Golding - 8g
 * Fuggle - 4g
+* pas de dry (citrussy a embouteillage)
 
 ### Epices
 
@@ -93,9 +94,9 @@ Dry hop commence a la deuxieme semaine uniquement
 * a 1 semaine
   * transvase et nettoyage levure morte
   * debut dry hop
-* a 2 semaines
+* a 3 semaines
   * mise en bouteille
-  * resucrage a 8g par litre
+  * resucrage a 10g par litre
   * 10 gouttes de citrussy
 
 ### Remarques gustatives
