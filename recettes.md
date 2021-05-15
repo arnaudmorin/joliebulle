@@ -20,6 +20,18 @@
   * [Levures](#levures-1)
   * [Divers](#divers-1)
     * [Remarques gustatives](#remarques-gustatives-1)
+* [Printemps 2021 \- Citra IPA](#printemps-2021---citra-ipa)
+  * [Ebu](#ebu-4)
+    * [Eau](#eau-2)
+    * [Malt](#malt-2)
+    * [Houblons](#houblons-2)
+      * [Ebu](#ebu-5)
+      * [Dry](#dry-2)
+    * [Epices](#epices-2)
+  * [Levures](#levures-2)
+  * [Divers](#divers-2)
+    * [Remarques gustatives](#remarques-gustatives-2)
+
 
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
@@ -125,6 +137,53 @@ Dry hop commence a la deuxieme semaine uniquement
   * mise en bouteille
   * resucrage a 10g par litre
   * 10 gouttes de citrussy
+
+### Remarques gustatives
+
+# Printemps 2021 - Citra IPA
+Avec antoine
+Recette faite avec littlebock:
+https://www.littlebock.fr/recettes-bieres/42151/nom/citra-ipa
+
+* IBU 62
+* EBC 36
+* DI 1067 (theorique 1073)
+* DF 10xx (theorique 1017)
+
+## Ebu
+### Eau
+11L dans la cocotte, environ 10.5L dans le seau (en couvrant pendant l'ebu, peu de pertes).
+
+### Malt
+* 1kg 15 EBC
+* 1kg 80 EBC
+
+### Houblons
+#### Ebu
+* 60 minutes - 10g citra - 13.4 alpha
+* 20 minutes - 10g citra - 13.4 alpha
+* 10 minutes - 20g citra - 13.4 alpha
+
+#### Dry
+50g citra 4j avant embouteillage
+
+### Epices
+
+rien
+
+## Levures
+
+* Safale US05
+
+## Divers
+
+* a 1 semaine
+  * transvase et nettoyage levure morte
+* a 2 semaines
+  * Dry hop
+* a 2 semaines et demi
+  * mise en bouteille
+  * resucrage a 10g par litre
 
 ### Remarques gustatives
 
