@@ -148,7 +148,8 @@ https://www.littlebock.fr/recettes-bieres/42151/nom/citra-ipa
 * IBU 62
 * EBC 36
 * DI 1067 (theorique 1073)
-* DF 10xx (theorique 1017)
+* DF 1020 (theorique 1017)
+* Alcool 6.2
 
 ## Ebu
 ### Eau
@@ -183,7 +184,56 @@ rien
   * Dry hop
 * a 2 semaines et demi
   * mise en bouteille
-  * resucrage a 10g par litre
+  * resucrage a 8g par litre
+* Mise en bouteille le 5 juin 2021
+  * 20x33cl + 4x75cl = 9.60l
+
+### Remarques gustatives
+
+# Printemps 2021 - Citra IPA 2 (avec sorachi)
+Avec antoine
+Recette faite avec littlebock:
+https://www.littlebock.fr/recettes-bieres/42168/nom/citra-ipa-2-sorachi
+
+* IBU 57
+* EBC 17
+* DI 1080 (theorique 1073)
+* DF 1020 (theorique 1017)
+* Alcool 7.9
+
+## Ebu
+### Eau
+5.5L dans la cocotte, environ 5L dans le seau (en couvrant pendant l'ebu, peu de pertes).
+
+### Malt
+* 1kg 15 EBC
+
+### Houblons
+#### Ebu
+* 60 minutes - 10g citra - 13.4 alpha
+
+#### Dry
+25g sorachi 4j avant embouteillage
+
+### Epices
+
+rien
+
+## Levures
+
+* Safale US05
+
+## Divers
+
+* a 1 semaine
+  * transvase et nettoyage levure morte
+* a 2 semaines
+  * Dry hop
+* a 2 semaines et demi
+  * mise en bouteille
+  * resucrage a 8g par litre
+* Mise en bouteille le 5 juin 2021
+  * 5x33cl + 4x75cl = 4.65l
 
 ### Remarques gustatives
 
